@@ -10,7 +10,7 @@ export default function App() {
       <header className="max-w-5xl mx-auto px-4 md:px-6 py-6 flex items-center justify-between">
         <h1 className="text-2xl md:text-3xl font-bold">Personal / Task Manager Dashboard</h1>
         <div className="flex items-center gap-2">
-          <span className="hidden sm:inline text-sm text-gray-600 dark:text-gray-300">TypeScript • Async • FP • Error handling</span>
+         
           <ThemeToggle />
         </div>
       </header>
