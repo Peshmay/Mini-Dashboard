@@ -62,3 +62,4 @@ src/
 - **Local storage**: tasks persist across reloads.
 
 Enjoy! 🎉
+# Mini-Dashboard
